@@ -16,7 +16,7 @@ Committed to continuous learning, I stay ahead of industry trends and best pract
 
 ## 💼 Experience
 
-- ** PC Machinery Website Management ** 
+- **PC Machinery Website Management** 
 
 During my internship at PC Machinery (https://pcmachinery.co.nz/), I worked on managing and updating their WordPress-based website.
 My responsibilities included:
