@@ -33,40 +33,41 @@ Committed to continuous learning, I stay ahead of industry trends and best pract
 
 - **Car Wash Company Website (UAE)**
 
-I designed and developed a static WordPress website for Al Ayaan Car Wash (https://alayaancarwash.com/) using WordPress and Elementor.
-This project involved:
-
-Website Development:
-• Built a professional and visually appealing website to showcase services.
- 
-Hosting & Domain Setup:
-• Managed domain registration and hosting configuration.
-
-SEO Optimization:
-• Implemented SEO strategies to improve search visibility and rank the website on Google.
-
-Performance & User Experience:
-• Ensured fast loading times, mobile responsiveness, and an intuitive layout.
-This project enhanced my expertise in WordPress development, Elementor customization, SEO optimization, and website deployment for businesses.
+    I designed and developed a static WordPress website for Al Ayaan Car Wash (https://alayaancarwash.com/) using WordPress and Elementor.
+    This project involved:
+    
+    Website Development:
+    • Built a professional and visually appealing website to showcase services.
+     
+    Hosting & Domain Setup:
+    • Managed domain registration and hosting configuration.
+    
+    SEO Optimization:
+    • Implemented SEO strategies to improve search visibility and rank the website on Google.
+    
+    Performance & User Experience:
+    • Ensured fast loading times, mobile responsiveness, and an intuitive layout.
+    This project enhanced my expertise in WordPress development, Elementor customization, SEO optimization, and website deployment for businesses.
 
 - **District Football Association Data Management System (DFA)**
 
-For my Final Year Project, I developed a District Football Association Data Management System, designed to streamline and digitalize player record-keeping. Built using HTML, CSS, and SQL for database management, this system ensures efficient data handling for football associations.
-Key Features & Functionality:
-
-Role-Based Access Control:
-• Different user roles including Admin, President, General Manager, and Players with specific permissions.
- 
-Player Record Management:
-• Players can access and review their own data, while higher officials can add and update player records.
- 
-Approval System:
-• Any new entries or updates made by officials require admin approval before becoming part of the official records.
-
-User-Friendly Interface:
-• Designed with a clean and responsive interface for seamless navigation and data retrieval.
-
-This project aimed to enhance transparency and efficiency in managing player records while ensuring data security and controlled access for different stakeholders.
+    For my Final Year Project, I developed a District Football Association Data Management System, designed to streamline and digitalize player record-keeping. Built using HTML, CSS, and SQL for database management, this system ensures efficient data handling for   
+    football associations.
+    Key Features & Functionality:
+    
+    Role-Based Access Control:
+    • Different user roles including Admin, President, General Manager, and Players with specific permissions.
+     
+    Player Record Management:
+    • Players can access and review their own data, while higher officials can add and update player records.
+     
+    Approval System:
+    • Any new entries or updates made by officials require admin approval before becoming part of the official records.
+    
+    User-Friendly Interface:
+    • Designed with a clean and responsive interface for seamless navigation and data retrieval.
+    
+    This project aimed to enhance transparency and efficiency in managing player records while ensuring data security and controlled access for different stakeholders.
 
 ---
 
@@ -75,24 +76,24 @@ This project aimed to enhance transparency and efficiency in managing player rec
 
 - **React & Frontend Development (HYLY)**
 
-I contributed to multiple React and Next.js projects, delivering high-quality, scalable, and efficient web applications. Due to company and client policies, I am unable to disclose specific project details.
-My work involved:
-
-Frontend Development: 
-• Built responsive and dynamic UIs using React.js, Next.js, Tailwind CSS, Radix UI, ShadCN and KendoReact.
-• Leveraged KendoReact UI components (Grids, Charts, DatePickers, etc.) for enhanced functionality and user experience. State Management:
-• Implemented efficient state handling using Redux, Redux Toolkit, Zustand, and Context API.
-
-API Integration:
-• Worked extensively with RESTful APIs, ensuring seamless data flow and performance optimization.
-
-Testing & Quality Assurance:
-• Ensured code reliability and maintainability through Jest, Enzyme, and Playwright (E2E testing).
- 
-PDF & Document Handling:
-• Utilized KendoReact PDF Export for generating, customizing, and downloading PDFs.
-• Implemented KendoReact document processing features to enhance reporting capabilities.
-This experience strengthened my ability to develop scalable web applications while maintaining code quality, performance, and user experience.
+    I contributed to multiple React and Next.js projects, delivering high-quality, scalable, and efficient web applications. Due to company and client policies, I am unable to disclose specific project details.
+    My work involved:
+    
+    Frontend Development: 
+    • Built responsive and dynamic UIs using React.js, Next.js, Tailwind CSS, Radix UI, ShadCN and KendoReact.
+    • Leveraged KendoReact UI components (Grids, Charts, DatePickers, etc.) for enhanced functionality and user experience. State Management:
+    • Implemented efficient state handling using Redux, Redux Toolkit, Zustand, and Context API.
+    
+    API Integration:
+    • Worked extensively with RESTful APIs, ensuring seamless data flow and performance optimization.
+    
+    Testing & Quality Assurance:
+    • Ensured code reliability and maintainability through Jest, Enzyme, and Playwright (E2E testing).
+     
+    PDF & Document Handling:
+    • Utilized KendoReact PDF Export for generating, customizing, and downloading PDFs.
+    • Implemented KendoReact document processing features to enhance reporting capabilities.
+    This experience strengthened my ability to develop scalable web applications while maintaining code quality, performance, and user experience.
  
 ---
 
