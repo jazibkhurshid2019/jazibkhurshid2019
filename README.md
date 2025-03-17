@@ -18,18 +18,18 @@ Committed to continuous learning, I stay ahead of industry trends and best pract
 
 - **PC Machinery Website Management** 
 
-During my internship at PC Machinery (https://pcmachinery.co.nz/), I worked on managing and updating their WordPress-based website.
-My responsibilities included:
-
-Product Management:
-• Adding and updating product listings with accurate details, images, and pricing.
-
-Website Customization:
-• Implementing minor tweaks and adjustments based on client requirements.
-
-Client Requests Handling:
-• Making modifications and resolving minor issues to enhance user experience.
-This experience strengthened my skills in WordPress management, content updates, and understanding client-based website modifications.
+ During my internship at PC Machinery (https://pcmachinery.co.nz/), I worked on managing and updating their WordPress-based website.
+ My responsibilities included:
+ 
+ Product Management:
+ • Adding and updating product listings with accurate details, images, and pricing.
+ 
+ Website Customization:
+ • Implementing minor tweaks and adjustments based on client requirements.
+ 
+ Client Requests Handling:
+ • Making modifications and resolving minor issues to enhance user experience.
+ This experience strengthened my skills in WordPress management, content updates, and understanding client-based website modifications.
 
 - **Car Wash Company Website (UAE)**
 
