@@ -115,7 +115,7 @@ I'm open to collaborations in:
 
 ## 📫 How to Reach Me
 
-Feel free to reach me via email at [jazib9626@gmail.com](mailto:jazib9626@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/assadakram/), [Upwork](https://www.linkedin.com/in/jazib-khurshid).
+Feel free to reach me via email at [jazib9626@gmail.com](mailto:jazib9626@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jazib-khurshid), [Upwork](https://www.upwork.com/freelancers/~0146728c93d7137e74).
 
 ---
 
