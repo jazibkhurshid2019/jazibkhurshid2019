@@ -1,5 +1,5 @@
 # 👋 I'm Jazib Khurshid
-### FrontEnd Engineer
+### Front-End Engineer
 
 
 
